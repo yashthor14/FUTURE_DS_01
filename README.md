@@ -49,6 +49,6 @@ SuperStore Sales Dataset
 
 ## 📌 Dashboard Preview 
 
-![Dashboard Screenshot](Screenshot2026-03-01130622.png)
+![Dashboard Screenshot](Screenshot 2026-03-01 130622.png)
 
 
